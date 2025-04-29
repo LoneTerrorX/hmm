@@ -10,7 +10,7 @@ function App() {
         <div className="relative max-w-4xl mx-auto z-10">
           <h1 className="text-7xl font-bold mb-6 animate-title-glow">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-rose-600 to-cyan-200">
-              Midanka's Only Fans
+              Anilabh's Only Fans
             </span>
           </h1>
           {/* Image Display */}
